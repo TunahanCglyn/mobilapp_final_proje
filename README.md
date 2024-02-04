@@ -19,9 +19,10 @@ A new Flutter project.
 
 <img width="496" alt="Ekran Resmi 2024-02-04 18 09 32" src="https://github.com/TunahanCglyn/mobilapp_final_proje/assets/149117837/f39fa24d-a11e-4792-ab6f-3d58ba3b6203">
 
+<img width="494" alt="Ekran Resmi 2024-02-04 18 08 30" src="https://github.com/TunahanCglyn/mobilapp_final_proje/assets/149117837/241338ba-4a61-4aad-a27b-66d07a4de925">
+
 <img width="1470" alt="Ekran Resmi 2024-02-04 18 17 46" src="https://github.com/TunahanCglyn/mobilapp_final_proje/assets/149117837/8722738b-0c99-45a4-9aaf-c6a6fb58a50e">
 
-<img width="494" alt="Ekran Resmi 2024-02-04 18 08 30" src="https://github.com/TunahanCglyn/mobilapp_final_proje/assets/149117837/241338ba-4a61-4aad-a27b-66d07a4de925">
 
 
 
