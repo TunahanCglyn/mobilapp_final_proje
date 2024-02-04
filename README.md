@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-<img width="1470" alt="Ekran Resmi 2024-02-04 18 17 46" src="https://github.com/TunahanCglyn/mobilapp_final_proje/assets/149117837/4d3e4901-cb46-42d0-bdf0-8e795f59ef42">
 
 <img width="490" alt="Ekran Resmi 2024-02-04 18 16 59" src="https://github.com/TunahanCglyn/mobilapp_final_proje/assets/149117837/16e349af-4016-46b0-b62f-d569473cc422">
 
